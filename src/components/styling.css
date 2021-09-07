@@ -1,0 +1,24 @@
+.home {
+  display: flex;
+}
+.productContainer {
+  display: flex;
+  width: 78%;
+  padding: 20px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.filters {
+  background-color: #3a3c3f;
+  color: white;
+  width: 22%;
+  height: 100vh;
+  padding: 25px;
+  font-size: 20px;
+}
+.filters > div {
+  padding-bottom: 27px;
+}
+.title {
+  font-size: 2rem;
+}
